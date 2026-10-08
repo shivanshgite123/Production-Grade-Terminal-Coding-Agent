@@ -1,0 +1,7 @@
+click
+python-dotenv
+langchain-core
+langchain-groq
+langgraph
+pydantic
+rich
